@@ -73,7 +73,6 @@ DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 DOMAIN,happyemby.911997.xyz
-DOMAIN,emby.wtf
 
 # > 流媒体WaveCloud服务器
 DOMAIN,embyserver.ga
